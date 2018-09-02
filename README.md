@@ -12,7 +12,7 @@ import sys
 pygame.init()
 pygame.mixer.pre_init(44100, 16, 2, 4096)
 # Music 
-pygame.mixer.music.load(r"C:\Users\RAGHAV ANGRA\Downloads\Music\halka halka.mp3")
+pygame.mixer.music.load(r"Dodge/halka halka.mp3")
 # Defining colors and game display
 BLACK = ( 0, 0, 0)
 WHITE = ( 255, 255, 255)
